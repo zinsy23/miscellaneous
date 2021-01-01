@@ -1,0 +1,9 @@
+Copyright (C) 2021 Joseph Zins
+
+This app collects information about the following:
+-Fitbit sleep logs
+-Potentially anything Fitbit would also collect to make this process successful.
+
+I don't personally have any control over any of the information collected. I'm a hobbyist using this app for my own personal sake. It's intended to use sleep logs to detect the sleep stage the user is or has been in, nothing more. The app functions based on this data collected. This is intended for personal use and maybe other family members under my control with their own separate things from mine.
+
+I will not collect any sleep log data because it's purely for the app to function and any other user using this besides me and my brother will need to come up with a similar policy to this. Those things will be on their own terms. The data is protected within the user's account and environment. No one is using any data except the app when it needs it to do its function. Fitbit is in control of the data and not me. See Fitbit's privacy policies related to this for more information.
